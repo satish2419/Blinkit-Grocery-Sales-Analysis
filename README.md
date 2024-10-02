@@ -1,4 +1,4 @@
-# Blinkit-Grocery-Sales-Analysis
+# Blinkit-Grocery-Sales-Analysis-Using-SQL
 
 ## Dataset Description
 
